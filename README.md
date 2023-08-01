@@ -15,5 +15,3 @@ For Q&A and troubleshooting running Damn Vulnerable DeFi, go [here](https://gith
 ## Disclaimer
 
 All Solidity code, practices and patterns in this repository are DAMN VULNERABLE and for educational purposes only.
-
-DO NOT USE IN PRODUCTION.
